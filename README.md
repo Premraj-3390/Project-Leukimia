@@ -198,13 +198,13 @@ It is **not** intended for clinical diagnosis or medical decision-making.
 
 # 👨‍💻 Author
 
-**Premraj**-**714024243153**
+**Premraj**-**24AD153**
 
-**Sandeep Bharathi**-**714024243175**
+**Sandeep Bharathi**-**24AD175**
 
-**Sakthi Vishal**-**714024243173**
+**Sakthi Vishal**-**24AD173**
 
-**Mohamed Irfan**-**714024243122**
+**Mohamed Irfan**-**24AD122**
 
 B.Tech Artificial Intelligence And Data Science
 Machine Learning | Deep Learning | Computer Vision
