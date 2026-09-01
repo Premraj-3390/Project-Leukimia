@@ -50,7 +50,6 @@ https://ieeexplore.ieee.org/document/11504871
 
 Blood Cell Cancer (ALL 4-Class)
 
-https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class
 
 This dataset is used strictly for **research, educational and academic purposes**.
 
