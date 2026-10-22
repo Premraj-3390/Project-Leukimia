@@ -167,20 +167,7 @@ ALL-Detection-EfficientNet-XGBoost/
 
 ---
 
-# 📚 Citation
 
-If you use this repository in your research, please consider citing our paper.
-
-```
-Effective Hybrid Pipeline for Acute Lymphoblastic Leukemia Detection using FCM Segmentation, EfficientNet Features, and XGBoost Classification.
-
-2026 5th International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI)
-
-DOI:
-https://doi.org/10.1109/RAEEUCCI67649.2026.11504871
-```
-
----
 
 # 📜 License
 
